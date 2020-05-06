@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-<<<<<<< HEAD
     <Button
         android:id="@+id/botonJugar"
         android:layout_width="140dp"
@@ -31,22 +30,15 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
-=======
-<<<<<<< Updated upstream
->>>>>>> master
     <RelativeLayout
         android:id="@+id/relativeLayout"
         android:layout_width="409dp"
         android:layout_height="500dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-<<<<<<< HEAD
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="1dp">
-=======
-        tools:layout_editor_absoluteX="1dp"
-        tools:ignore="MissingConstraints">
-=======
+
     <TextView
         android:layout_width="86dp"
         android:layout_height="23dp"
@@ -56,8 +48,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
->>>>>>> Stashed changes
->>>>>>> master
+
 
         <TableLayout
             android:layout_width="match_parent"
